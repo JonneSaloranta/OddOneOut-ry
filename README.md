@@ -19,6 +19,7 @@ Dokumentit ovat OpenDocument-muodossa (.odt, .ods) ja avautuvat LibreOfficessa (
 | MEN-05 | Tapahtumien järjestäminen | [MEN-05_tapahtumien_jarjestaminen.odt](laatukasikirja/MEN-05_tapahtumien_jarjestaminen.odt) | Luonnos |
 | MEN-06 | Varusteet ja omaisuus | [MEN-06_varusteet_ja_omaisuus.odt](laatukasikirja/MEN-06_varusteet_ja_omaisuus.odt) | Luonnos |
 | MEN-07 | Hallituksen järjestäytyminen ja tehtävien luovutus | [MEN-07_hallituksen_jarjestaytyminen.odt](laatukasikirja/MEN-07_hallituksen_jarjestaytyminen.odt) | Luonnos |
+| MEN-08 | Perehdytys ja osaaminen | [MEN-08_perehdytys.odt](laatukasikirja/MEN-08_perehdytys.odt) | Luonnos |
 | TYO-01 | Toiminnantarkastus (toiminnantarkastaja) | [TYO-01_toiminnantarkastus.odt](laatukasikirja/TYO-01_toiminnantarkastus.odt) | Luonnos |
 | TYO-02 | Sosiaalisen median ylläpito (somevastaava) | [TYO-02_sosiaalinen_media.odt](laatukasikirja/TYO-02_sosiaalinen_media.odt) | Luonnos |
 | TYO-03 | Tietoturvavastaavan tehtävät | [TYO-03_tietoturvavastaava.odt](laatukasikirja/TYO-03_tietoturvavastaava.odt) | Luonnos |
@@ -31,19 +32,22 @@ Dokumentit ovat OpenDocument-muodossa (.odt, .ods) ja avautuvat LibreOfficessa (
 | TYO-10 | Tapahtumavastaavan tehtävät | [TYO-10_tapahtumavastaava.odt](laatukasikirja/TYO-10_tapahtumavastaava.odt) | Luonnos |
 | TYO-11 | Kokouksen toimihenkilöiden tehtävät | [TYO-11_kokouksen_toimihenkilot.odt](laatukasikirja/TYO-11_kokouksen_toimihenkilot.odt) | Luonnos |
 | LOM-01 | Hallituksen toimenpidelista (laskentataulukko) | [LOM-01_toimenpidelista.ods](laatukasikirja/LOM-01_toimenpidelista.ods) | Luonnos |
+| LOM-02 | Vuosikello | [LOM-02_vuosikello.odt](laatukasikirja/LOM-02_vuosikello.odt) | Luonnos |
 
 ### Roolit ja ohjeet
 
+Kaikki roolit: perehdytys MEN-08, määräajat vuosikellossa LOM-02.
+
 | Rooli | Työohje | Keskeiset menettelyohjeet |
 |---|---|---|
-| Puheenjohtaja | TYO-04 | MEN-01, MEN-02, MEN-03, MEN-07 |
+| Puheenjohtaja | TYO-04 | POL-01, MEN-01, MEN-03, MEN-07, MEN-08, LOM-01 |
 | Varapuheenjohtaja | TYO-05 | MEN-03, MEN-07 |
-| Sihteeri | TYO-06 | MEN-01, MEN-02, MEN-04, MEN-07 |
+| Sihteeri | TYO-06 | MEN-01, MEN-04, MEN-07, POL-02 |
 | Rahastonhoitaja | TYO-07 | MEN-03, MEN-04 |
 | Hallituksen jäsen ja varajäsen | TYO-09 | MEN-01, MEN-02 |
 | Toiminnantarkastaja | TYO-01 | MEN-03 |
 | Somevastaava | TYO-02 | MEN-01, MEN-02 |
-| Tietoturvavastaava | TYO-03 | MEN-02 |
+| Tietoturvavastaava | TYO-03 | MEN-02, POL-02 |
 | Varustevastaava | TYO-08 | MEN-06, MEN-05 |
 | Tapahtumavastaava | TYO-10 | MEN-05, MEN-03, MEN-06 |
 | Kokouksen toimihenkilöt | TYO-11 | MEN-01 |
@@ -57,7 +61,7 @@ Dokumentit ovat OpenDocument-muodossa (.odt, .ods) ja avautuvat LibreOfficessa (
 5. Tallenna muodossa `TUNNUS_nimi.odt` kansioon `laatukasikirja/` ja lisää dokumentti yllä olevaan taulukkoon.
 6. Hallitus hyväksyy dokumentin; kirjaa hyväksyntä kansilehden hyväksyntä- ja muutoshistoriataulukkoon.
 
-Tunnusten etuliitteet: `POL` politiikka, `MEN` menettelyohje, `TYO` työohje, `LOM` lomake.
+Tunnusten etuliitteet: `POL` politiikka, `MEN` menettelyohje, `TYO` työohje, `LOM` lomake tai työkalu. Dokumenttien hallinnan säännöt: POL-01, luku 8.
 
 ## Dokumenttien hallinta
 
