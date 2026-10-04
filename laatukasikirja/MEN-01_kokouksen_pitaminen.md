@@ -195,35 +195,39 @@ Mittarien tulokset käsitellään hallituksessa vuosittain osana toimintakertomu
 
 *Tarkista esityslista sääntöjen vuosikokouspykälää vasten ennen käyttöä.*
 
+---
+
 ### Liite 2 – Kokouskutsupohja
 
 > **KOKOUSKUTSU – OddOneOut ry:n [vuosikokous / ylimääräinen kokous]**
 >
-> Aika: [pp.kk.vvvv klo hh:mm]
+> Aika: [pp.kk.vvvv klo hh:mm]\
 > Paikka: [osoite, Mikkeli / etäyhteyslinkki, jos sallittu]
 >
-> Kokouksessa käsitellään sääntöjen [§] määräämät vuosikokousasiat sekä: [muut asiat].
+> Kokouksessa käsitellään sääntöjen [§] määräämät vuosikokousasiat sekä: [muut asiat].\
 > Kokousaineisto on nähtävillä [paikka / linkki] [pp.kk.vvvv] alkaen.
 >
-> Tervetuloa!
-> Mikkelissä [pp.kk.vvvv]
+> Tervetuloa!\
+> Mikkelissä [pp.kk.vvvv]\
 > OddOneOut ry:n hallitus
 >
 > *Kutsu toimitettu [pp.kk.vvvv] kanavalla: [sähköposti / posti / verkkosivut / somekanava].*
+
+---
 
 ### Liite 3 – Pöytäkirjapohja
 
 > **OddOneOut ry – [Vuosikokous / Ylimääräinen kokous / Hallituksen kokous] [nro/vvvv]**
 >
-> Aika: [pp.kk.vvvv klo hh:mm–hh:mm]
-> Paikka: [paikka]
+> Aika: [pp.kk.vvvv klo hh:mm–hh:mm]\
+> Paikka: [paikka]\
 > Läsnä: [nimet tai liite: osallistujaluettelo]
 >
-> **1 § Kokouksen avaus** – [Nimi] avasi kokouksen klo [hh:mm].
-> **2 § Järjestäytyminen** – Puheenjohtajaksi valittiin [ ], sihteeriksi [ ], pöytäkirjantarkastajiksi ja ääntenlaskijoiksi [ ] ja [ ].
-> **3 § Laillisuus ja päätösvaltaisuus** – Todettiin, että kutsu oli toimitettu [pp.kk.vvvv] [kanava] ja kokous on laillisesti koolle kutsuttu ja päätösvaltainen.
-> **4 § Esityslista** – Esityslista hyväksyttiin kokouksen työjärjestykseksi.
-> **[n] § [Asia]** – Esitys: [ ]. Keskustelu: [lyhyesti]. **Päätös:** [ ]. Vastuu ja aikataulu: [ ].
+> **1 § Kokouksen avaus** – [Nimi] avasi kokouksen klo [hh:mm].\
+> **2 § Järjestäytyminen** – Puheenjohtajaksi valittiin [ ], sihteeriksi [ ], pöytäkirjantarkastajiksi ja ääntenlaskijoiksi [ ] ja [ ].\
+> **3 § Laillisuus ja päätösvaltaisuus** – Todettiin, että kutsu oli toimitettu [pp.kk.vvvv] [kanava] ja kokous on laillisesti koolle kutsuttu ja päätösvaltainen.\
+> **4 § Esityslista** – Esityslista hyväksyttiin kokouksen työjärjestykseksi.\
+> **[n] § [Asia]** – Esitys: [ ]. Keskustelu: [lyhyesti]. **Päätös:** [ ]. Vastuu ja aikataulu: [ ].\
 > **[n] § Kokouksen päättäminen** – Puheenjohtaja päätti kokouksen klo [hh:mm].
 >
 > | Puheenjohtaja | Sihteeri |
