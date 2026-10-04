@@ -3,23 +3,27 @@
 OddOneOut ry on mikkeliläinen ajoneuvoharrastajien yhdistys ([oddoneoutcrew.org](https://oddoneoutcrew.org/)).
 Tämä repositorio sisältää yhdistyksen laadunhallintajärjestelmän dokumentaation, joka on jäsennelty ISO 9001:2015 -standardin mukaisesti.
 
+Dokumentit ovat OpenDocument-muodossa ja avautuvat LibreOfficessa (suositus) sekä Microsoft Wordissa.
+
 ## Dokumentit
 
-| Tunnus | Dokumentti | ODT | Tila |
+| Tunnus | Dokumentti | Tiedosto | Tila |
 |---|---|---|---|
-| – | [Dokumenttipohja](laatukasikirja/00_dokumenttipohja.md) | [.odt](laatukasikirja/00_dokumenttipohja.odt) | Pohja |
-| MEN-01 | [Kokouksen pitäminen](laatukasikirja/MEN-01_kokouksen_pitaminen.md) | [.odt](laatukasikirja/MEN-01_kokouksen_pitaminen.odt) | Luonnos |
-
-Dokumenttien lähde on Markdown (`.md`). Muotoillut OpenDocument-tiedostot (`.odt`, avautuvat LibreOfficessa ja Wordissa) generoidaan lähteestä.
+| – | Dokumenttipohja | [00_dokumenttipohja.ott](laatukasikirja/00_dokumenttipohja.ott) | Pohja |
+| MEN-01 | Kokouksen pitäminen | [MEN-01_kokouksen_pitaminen.odt](laatukasikirja/MEN-01_kokouksen_pitaminen.odt) | Luonnos |
 
 ## Uuden dokumentin tekeminen
 
-1. Kopioi `laatukasikirja/00_dokumenttipohja.md` ja nimeä se muotoon `TUNNUS_nimi.md`.
-2. Täytä hakasulkeissa olevat kohdat ja poista kursiiviset ohjetekstit.
-3. Lisää dokumentti yllä olevaan taulukkoon.
-4. Generoi ODT-versio: `python3 tyokalut/muunna_odt.py` (vaatii pandocin, esim. `pip install pypandoc_binary`).
-5. Hallitus hyväksyy dokumentin; kirjaa hyväksyntä dokumentin muutoshistoriaan.
-
-Muokkaa aina `.md`-tiedostoa ja generoi `.odt` uudelleen, jotta versiot pysyvät samoina. Erillinen vaakaviiva (`---`) tekee ODT-versioon sivunvaihdon.
+1. Avaa `laatukasikirja/00_dokumenttipohja.ott` LibreOfficessa. Se on asiakirjamalli, joten siitä avautuu uusi nimetön dokumentti.
+2. Napsauta harmaita täyttökenttiä (`<Nimi>` jne.) ja kirjoita tilalle oikea tieto.
+3. Vaihda ylä- ja alatunnisteen tunnus, nimi, versio ja tila.
+4. Poista harmaat kursiiviset ohjetekstit.
+5. Tallenna muodossa `TUNNUS_nimi.odt` kansioon `laatukasikirja/` ja lisää dokumentti yllä olevaan taulukkoon.
+6. Hallitus hyväksyy dokumentin; kirjaa hyväksyntä kansilehden hyväksyntä- ja muutoshistoriataulukkoon.
 
 Tunnusten etuliitteet: `POL` politiikka, `MEN` menettelyohje, `TYO` työohje, `LOM` lomake.
+
+## Dokumenttien hallinta
+
+- Muutettaessa nosta versionumeroa ja kirjaa muutos muutoshistoriaan.
+- Voimassa oleva versio on aina tämän arkiston uusin hyväksytty versio; tulostetut kopiot ovat ohjaamattomia.
