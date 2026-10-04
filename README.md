@@ -3,13 +3,15 @@
 OddOneOut ry on mikkeliläinen ajoneuvoharrastajien yhdistys ([oddoneoutcrew.org](https://oddoneoutcrew.org/)).
 Tämä repositorio sisältää yhdistyksen laadunhallintajärjestelmän dokumentaation, joka on jäsennelty ISO 9001:2015 -standardin mukaisesti.
 
-Dokumentit ovat OpenDocument-muodossa ja avautuvat LibreOfficessa (suositus) sekä Microsoft Wordissa.
+Dokumentit ovat OpenDocument-muodossa (.odt, .ods) ja avautuvat LibreOfficessa (suositus) sekä Microsoft Officessa. Aloita lukeminen dokumentista **POL-01**, joka kuvaa koko laatujärjestelmän.
 
 ## Dokumentit
 
 | Tunnus | Dokumentti | Tiedosto | Tila |
 |---|---|---|---|
 | – | Dokumenttipohja | [00_dokumenttipohja.ott](laatukasikirja/00_dokumenttipohja.ott) | Pohja |
+| POL-01 | Laatupolitiikka ja laatujärjestelmän kuvaus | [POL-01_laatupolitiikka.odt](laatukasikirja/POL-01_laatupolitiikka.odt) | Luonnos |
+| POL-02 | Tietosuojaseloste (jäsenrekisteri) | [POL-02_tietosuojaseloste.odt](laatukasikirja/POL-02_tietosuojaseloste.odt) | Luonnos |
 | MEN-01 | Kokouksen pitäminen | [MEN-01_kokouksen_pitaminen.odt](laatukasikirja/MEN-01_kokouksen_pitaminen.odt) | Luonnos |
 | MEN-02 | Tietoturva ja tietosuoja | [MEN-02_tietoturva.odt](laatukasikirja/MEN-02_tietoturva.odt) | Luonnos |
 | MEN-03 | Talous ja maksuliikenne | [MEN-03_talous_ja_maksuliikenne.odt](laatukasikirja/MEN-03_talous_ja_maksuliikenne.odt) | Luonnos |
@@ -28,6 +30,7 @@ Dokumentit ovat OpenDocument-muodossa ja avautuvat LibreOfficessa (suositus) sek
 | TYO-09 | Hallituksen jäsenen ja varajäsenen tehtävät | [TYO-09_hallituksen_jasen.odt](laatukasikirja/TYO-09_hallituksen_jasen.odt) | Luonnos |
 | TYO-10 | Tapahtumavastaavan tehtävät | [TYO-10_tapahtumavastaava.odt](laatukasikirja/TYO-10_tapahtumavastaava.odt) | Luonnos |
 | TYO-11 | Kokouksen toimihenkilöiden tehtävät | [TYO-11_kokouksen_toimihenkilot.odt](laatukasikirja/TYO-11_kokouksen_toimihenkilot.odt) | Luonnos |
+| LOM-01 | Hallituksen toimenpidelista (laskentataulukko) | [LOM-01_toimenpidelista.ods](laatukasikirja/LOM-01_toimenpidelista.ods) | Luonnos |
 
 ### Roolit ja ohjeet
 
