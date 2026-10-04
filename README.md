@@ -14,6 +14,7 @@ Dokumentit ovat OpenDocument-muodossa ja avautuvat LibreOfficessa (suositus) sek
 | MEN-02 | Tietoturva ja tietosuoja | [MEN-02_tietoturva.odt](laatukasikirja/MEN-02_tietoturva.odt) | Luonnos |
 | TYO-01 | Toiminnantarkastus (ohje toiminnantarkastajalle) | [TYO-01_toiminnantarkastus.odt](laatukasikirja/TYO-01_toiminnantarkastus.odt) | Luonnos |
 | TYO-02 | Sosiaalisen median ylläpito (ohje somevastaavalle) | [TYO-02_sosiaalinen_media.odt](laatukasikirja/TYO-02_sosiaalinen_media.odt) | Luonnos |
+| TYO-03 | Tietoturvavastaavan tehtävät | [TYO-03_tietoturvavastaava.odt](laatukasikirja/TYO-03_tietoturvavastaava.odt) | Luonnos |
 
 ## Uuden dokumentin tekeminen
 
