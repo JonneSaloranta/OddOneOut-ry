@@ -11,6 +11,7 @@ Dokumentit ovat OpenDocument-muodossa ja avautuvat LibreOfficessa (suositus) sek
 |---|---|---|---|
 | – | Dokumenttipohja | [00_dokumenttipohja.ott](laatukasikirja/00_dokumenttipohja.ott) | Pohja |
 | MEN-01 | Kokouksen pitäminen | [MEN-01_kokouksen_pitaminen.odt](laatukasikirja/MEN-01_kokouksen_pitaminen.odt) | Luonnos |
+| TYO-01 | Toiminnantarkastus (ohje toiminnantarkastajalle) | [TYO-01_toiminnantarkastus.odt](laatukasikirja/TYO-01_toiminnantarkastus.odt) | Luonnos |
 
 ## Uuden dokumentin tekeminen
 
