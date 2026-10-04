@@ -12,9 +12,38 @@ Dokumentit ovat OpenDocument-muodossa ja avautuvat LibreOfficessa (suositus) sek
 | – | Dokumenttipohja | [00_dokumenttipohja.ott](laatukasikirja/00_dokumenttipohja.ott) | Pohja |
 | MEN-01 | Kokouksen pitäminen | [MEN-01_kokouksen_pitaminen.odt](laatukasikirja/MEN-01_kokouksen_pitaminen.odt) | Luonnos |
 | MEN-02 | Tietoturva ja tietosuoja | [MEN-02_tietoturva.odt](laatukasikirja/MEN-02_tietoturva.odt) | Luonnos |
-| TYO-01 | Toiminnantarkastus (ohje toiminnantarkastajalle) | [TYO-01_toiminnantarkastus.odt](laatukasikirja/TYO-01_toiminnantarkastus.odt) | Luonnos |
-| TYO-02 | Sosiaalisen median ylläpito (ohje somevastaavalle) | [TYO-02_sosiaalinen_media.odt](laatukasikirja/TYO-02_sosiaalinen_media.odt) | Luonnos |
+| MEN-03 | Talous ja maksuliikenne | [MEN-03_talous_ja_maksuliikenne.odt](laatukasikirja/MEN-03_talous_ja_maksuliikenne.odt) | Luonnos |
+| MEN-04 | Jäsenasiat | [MEN-04_jasenasiat.odt](laatukasikirja/MEN-04_jasenasiat.odt) | Luonnos |
+| MEN-05 | Tapahtumien järjestäminen | [MEN-05_tapahtumien_jarjestaminen.odt](laatukasikirja/MEN-05_tapahtumien_jarjestaminen.odt) | Luonnos |
+| MEN-06 | Varusteet ja omaisuus | [MEN-06_varusteet_ja_omaisuus.odt](laatukasikirja/MEN-06_varusteet_ja_omaisuus.odt) | Luonnos |
+| MEN-07 | Hallituksen järjestäytyminen ja tehtävien luovutus | [MEN-07_hallituksen_jarjestaytyminen.odt](laatukasikirja/MEN-07_hallituksen_jarjestaytyminen.odt) | Luonnos |
+| TYO-01 | Toiminnantarkastus (toiminnantarkastaja) | [TYO-01_toiminnantarkastus.odt](laatukasikirja/TYO-01_toiminnantarkastus.odt) | Luonnos |
+| TYO-02 | Sosiaalisen median ylläpito (somevastaava) | [TYO-02_sosiaalinen_media.odt](laatukasikirja/TYO-02_sosiaalinen_media.odt) | Luonnos |
 | TYO-03 | Tietoturvavastaavan tehtävät | [TYO-03_tietoturvavastaava.odt](laatukasikirja/TYO-03_tietoturvavastaava.odt) | Luonnos |
+| TYO-04 | Puheenjohtajan tehtävät | [TYO-04_puheenjohtaja.odt](laatukasikirja/TYO-04_puheenjohtaja.odt) | Luonnos |
+| TYO-05 | Varapuheenjohtajan tehtävät | [TYO-05_varapuheenjohtaja.odt](laatukasikirja/TYO-05_varapuheenjohtaja.odt) | Luonnos |
+| TYO-06 | Sihteerin tehtävät | [TYO-06_sihteeri.odt](laatukasikirja/TYO-06_sihteeri.odt) | Luonnos |
+| TYO-07 | Rahastonhoitajan tehtävät | [TYO-07_rahastonhoitaja.odt](laatukasikirja/TYO-07_rahastonhoitaja.odt) | Luonnos |
+| TYO-08 | Varustevastaavan tehtävät | [TYO-08_varustevastaava.odt](laatukasikirja/TYO-08_varustevastaava.odt) | Luonnos |
+| TYO-09 | Hallituksen jäsenen ja varajäsenen tehtävät | [TYO-09_hallituksen_jasen.odt](laatukasikirja/TYO-09_hallituksen_jasen.odt) | Luonnos |
+| TYO-10 | Tapahtumavastaavan tehtävät | [TYO-10_tapahtumavastaava.odt](laatukasikirja/TYO-10_tapahtumavastaava.odt) | Luonnos |
+| TYO-11 | Kokouksen toimihenkilöiden tehtävät | [TYO-11_kokouksen_toimihenkilot.odt](laatukasikirja/TYO-11_kokouksen_toimihenkilot.odt) | Luonnos |
+
+### Roolit ja ohjeet
+
+| Rooli | Työohje | Keskeiset menettelyohjeet |
+|---|---|---|
+| Puheenjohtaja | TYO-04 | MEN-01, MEN-02, MEN-03, MEN-07 |
+| Varapuheenjohtaja | TYO-05 | MEN-03, MEN-07 |
+| Sihteeri | TYO-06 | MEN-01, MEN-02, MEN-04, MEN-07 |
+| Rahastonhoitaja | TYO-07 | MEN-03, MEN-04 |
+| Hallituksen jäsen ja varajäsen | TYO-09 | MEN-01, MEN-02 |
+| Toiminnantarkastaja | TYO-01 | MEN-03 |
+| Somevastaava | TYO-02 | MEN-01, MEN-02 |
+| Tietoturvavastaava | TYO-03 | MEN-02 |
+| Varustevastaava | TYO-08 | MEN-06, MEN-05 |
+| Tapahtumavastaava | TYO-10 | MEN-05, MEN-03, MEN-06 |
+| Kokouksen toimihenkilöt | TYO-11 | MEN-01 |
 
 ## Uuden dokumentin tekeminen
 
